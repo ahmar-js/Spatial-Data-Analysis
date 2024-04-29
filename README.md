@@ -35,7 +35,7 @@ In this GIF you will see the spatial bubble chart with coordinates on X and Y ax
 
 ![](https://github.com/ahmar-js/Spatial-Data-Analysis/blob/master/media/spatial6.png)
 
-##Hotspot Analysis
+## Hotspot Analysis
 
 ![](https://github.com/ahmar-js/Spatial-Data-Analysis/blob/master/media/hotspot.png)
 
